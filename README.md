@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Maxwell Hermens (@MaxH403)
-- 👀 I’m interested in learning more about software development!
+- 👀 I’m interested in learning more about computer science!
 - 🌱 I’m currently learning more about C++, Java, and Python
 
 <!---
